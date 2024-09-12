@@ -6,5 +6,5 @@ Meu nome é Eloá Inocêncio, tenho um touro chamado Coronel e uma vaca que é p
 - Estudo no Colégio do Regina
 
 
-- Você entrar em contato comigo:
+##  Você entrar em contato comigo:
 - inocencio.silva.eloa@escola.pr.gov.br
